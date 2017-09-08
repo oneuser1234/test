@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/oneuser1234/test/issues"
   },
-  "homepage": "https://github.com/oneuser1234/test#readme"
+  "homepage": "https://github.com/oneuser1234/test#readme",
+  "dependencies": {
+    "express": "^4.15.4"
+  }
 }
